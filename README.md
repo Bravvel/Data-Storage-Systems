@@ -29,7 +29,7 @@
 ## Диаграмма 
 <img width="1831" height="1008" alt="image" src="https://github.com/user-attachments/assets/aea86710-a486-4925-ac52-fadec72e83c1" />
 
-##SQL-код сдля реализации хранилища данных
+## SQL-код сдля реализации хранилища данных
 SQL-код создания таблиц (DDL) для реализации хранилища данных в СУБД Greenplum представлен в файле datastorage.sql
 После выполнения SQL-кода была создана схема, а также все таблицы
 <img width="1919" height="733" alt="image" src="https://github.com/user-attachments/assets/faecf8a8-942e-4e86-bbd5-e529a58c26b5" />
